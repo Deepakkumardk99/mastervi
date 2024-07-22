@@ -72,9 +72,7 @@ export const Navbar = () => {
             justifyContent="space-between"
             alignItems={"center"}
           >
-            <Box>
-              
-            </Box>
+            
             <Box>
               <Button
                 fontSize={"larger"}

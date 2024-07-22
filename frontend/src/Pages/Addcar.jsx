@@ -1,7 +1,7 @@
 
 import { Box, Center } from '@chakra-ui/react';
 import React, { useState } from 'react';
-import { ImFontSize } from 'react-icons/im';
+
 
 const AddCarPage = () => {
   const [car, setCar] = useState({
